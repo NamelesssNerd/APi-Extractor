@@ -1,0 +1,1280 @@
+[
+    {
+        "_id": "63c828eefeae27b0983a227a",
+        "Title": "Cowboy Bebop",
+        "Year": "1998",
+        "Episodes": "26",
+        "Rank": "39",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/4/19644l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/qig4KOK2R2g?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c828eefeae27b0983a227d",
+        "Title": "Witch Hunter Robin",
+        "Year": "2002",
+        "Episodes": "26",
+        "Rank": "2794",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/10/19969l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/7UkaILjPk8M?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c828eefeae27b0983a227e",
+        "Title": "Hachimitsu to Clover",
+        "Year": "2005",
+        "Episodes": "24",
+        "Rank": "571",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/11/73923l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/6TN4a0kZuXg?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c828eefeae27b0983a227b",
+        "Title": "Cowboy Bebop: Tengoku no Tobira",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "185",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1439/93480l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/hc7IxJ93jtM?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c828eefeae27b0983a2280",
+        "Title": "School Rumble",
+        "Year": "2004",
+        "Episodes": "26",
+        "Rank": "754",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/4/75488l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/K4hy46Y-Cf8?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c828eefeae27b0983a2281",
+        "Title": "Sunabouzu",
+        "Year": "2004",
+        "Episodes": "24",
+        "Rank": "2138",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/6/75536l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/XMCqw1vxMnY?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c828eefeae27b0983a227c",
+        "Title": "Trigun",
+        "Year": "1998",
+        "Episodes": "26",
+        "Rank": "338",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/7/20310l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/bJVyIXeUznY?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c828eefeae27b0983a2283",
+        "Title": "Trinity Blood",
+        "Year": "2005",
+        "Episodes": "24",
+        "Rank": "2551",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/10/24649l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/35GXUVBRIEM?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c828eefeae27b0983a2284",
+        "Title": "Yakitate!! Japan",
+        "Year": "2004",
+        "Episodes": "69",
+        "Rank": "685",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/3/76432l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/xs6xzznC9tY?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c828eefeae27b0983a2285",
+        "Title": "Neon Genesis Evangelion",
+        "Year": "1995",
+        "Episodes": "26",
+        "Rank": "208",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/woto6QFUNbg?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c828eefeae27b0983a2286",
+        "Title": "Neon Genesis Evangelion: Death & Rebirth",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "1872",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1993/113122l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/eI8aUqsCovo?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c828eefeae27b0983a2287",
+        "Title": "Neon Genesis Evangelion: The End of Evangelion",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "100",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/Gk72E4qgEng?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c828eefeae27b0983a227f",
+        "Title": "One Piece",
+        "Year": "1999",
+        "Episodes": "12",
+        "Rank": "58",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/6/73245l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/l_98K4_6UQ0?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c828eefeae27b0983a2289",
+        "Title": "Koukaku Kidoutai",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "271",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/10/82594l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/5GjS0Vvs8KA?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c828eefeae27b0983a2282",
+        "Title": "Texhnolyze",
+        "Year": "2003",
+        "Episodes": "22",
+        "Rank": "1014",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1027/131977l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/Z19QTGvwg9I?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c828eefeae27b0983a2288",
+        "Title": "Kenpuu Denki Berserk",
+        "Year": "1997",
+        "Episodes": "25",
+        "Rank": "99",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1384/119988l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/5g5uPsKDGYg?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c8290dfeae27b0983a229a",
+        "Title": "Cowboy Bebop",
+        "Year": "1998",
+        "Episodes": "26",
+        "Rank": "39",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/4/19644l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/qig4KOK2R2g?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c8290dfeae27b0983a229b",
+        "Title": "Cowboy Bebop: Tengoku no Tobira",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "185",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1439/93480l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/hc7IxJ93jtM?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c8290dfeae27b0983a229c",
+        "Title": "Trigun",
+        "Year": "1998",
+        "Episodes": "26",
+        "Rank": "338",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/7/20310l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/bJVyIXeUznY?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c8290dfeae27b0983a229d",
+        "Title": "Witch Hunter Robin",
+        "Year": "2002",
+        "Episodes": "26",
+        "Rank": "2794",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/10/19969l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/7UkaILjPk8M?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c8290dfeae27b0983a229e",
+        "Title": "Hachimitsu to Clover",
+        "Year": "2005",
+        "Episodes": "24",
+        "Rank": "571",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/11/73923l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/6TN4a0kZuXg?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c8290dfeae27b0983a229f",
+        "Title": "One Piece",
+        "Year": "1999",
+        "Episodes": "12",
+        "Rank": "58",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/6/73245l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/l_98K4_6UQ0?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c8290dfeae27b0983a22a2",
+        "Title": "Texhnolyze",
+        "Year": "2003",
+        "Episodes": "22",
+        "Rank": "1014",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1027/131977l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/Z19QTGvwg9I?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c8290dfeae27b0983a22a3",
+        "Title": "Trinity Blood",
+        "Year": "2005",
+        "Episodes": "24",
+        "Rank": "2551",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/10/24649l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/35GXUVBRIEM?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c8290dfeae27b0983a22a4",
+        "Title": "Yakitate!! Japan",
+        "Year": "2004",
+        "Episodes": "69",
+        "Rank": "685",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/3/76432l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/xs6xzznC9tY?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c8290dfeae27b0983a22a5",
+        "Title": "Neon Genesis Evangelion",
+        "Year": "1995",
+        "Episodes": "26",
+        "Rank": "208",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/woto6QFUNbg?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c8290dfeae27b0983a22a6",
+        "Title": "Neon Genesis Evangelion: Death & Rebirth",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "1872",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1993/113122l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/eI8aUqsCovo?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c8290dfeae27b0983a22a7",
+        "Title": "Neon Genesis Evangelion: The End of Evangelion",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "100",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/Gk72E4qgEng?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c8290dfeae27b0983a22a8",
+        "Title": "Kenpuu Denki Berserk",
+        "Year": "1997",
+        "Episodes": "25",
+        "Rank": "99",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1384/119988l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/5g5uPsKDGYg?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c8290dfeae27b0983a22a9",
+        "Title": "Koukaku Kidoutai",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "271",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/10/82594l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/5GjS0Vvs8KA?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c8290dfeae27b0983a22a0",
+        "Title": "School Rumble",
+        "Year": "2004",
+        "Episodes": "26",
+        "Rank": "754",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/4/75488l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/K4hy46Y-Cf8?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c8290dfeae27b0983a22a1",
+        "Title": "Sunabouzu",
+        "Year": "2004",
+        "Episodes": "24",
+        "Rank": "2138",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/6/75536l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/XMCqw1vxMnY?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82910feae27b0983a22ba",
+        "Title": "Cowboy Bebop",
+        "Year": "1998",
+        "Episodes": "26",
+        "Rank": "39",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/4/19644l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/qig4KOK2R2g?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82910feae27b0983a22bb",
+        "Title": "Cowboy Bebop: Tengoku no Tobira",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "185",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1439/93480l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/hc7IxJ93jtM?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82910feae27b0983a22bc",
+        "Title": "Trigun",
+        "Year": "1998",
+        "Episodes": "26",
+        "Rank": "338",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/7/20310l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/bJVyIXeUznY?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82910feae27b0983a22bd",
+        "Title": "Witch Hunter Robin",
+        "Year": "2002",
+        "Episodes": "26",
+        "Rank": "2794",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/10/19969l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/7UkaILjPk8M?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82910feae27b0983a22be",
+        "Title": "Hachimitsu to Clover",
+        "Year": "2005",
+        "Episodes": "24",
+        "Rank": "571",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/11/73923l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/6TN4a0kZuXg?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82910feae27b0983a22bf",
+        "Title": "One Piece",
+        "Year": "1999",
+        "Episodes": "12",
+        "Rank": "58",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/6/73245l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/l_98K4_6UQ0?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82910feae27b0983a22c0",
+        "Title": "School Rumble",
+        "Year": "2004",
+        "Episodes": "26",
+        "Rank": "754",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/4/75488l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/K4hy46Y-Cf8?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82910feae27b0983a22c1",
+        "Title": "Sunabouzu",
+        "Year": "2004",
+        "Episodes": "24",
+        "Rank": "2138",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/6/75536l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/XMCqw1vxMnY?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82910feae27b0983a22c4",
+        "Title": "Yakitate!! Japan",
+        "Year": "2004",
+        "Episodes": "69",
+        "Rank": "685",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/3/76432l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/xs6xzznC9tY?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82910feae27b0983a22c5",
+        "Title": "Neon Genesis Evangelion",
+        "Year": "1995",
+        "Episodes": "26",
+        "Rank": "208",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/woto6QFUNbg?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82910feae27b0983a22c6",
+        "Title": "Neon Genesis Evangelion: Death & Rebirth",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "1872",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1993/113122l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/eI8aUqsCovo?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82910feae27b0983a22c7",
+        "Title": "Neon Genesis Evangelion: The End of Evangelion",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "100",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/Gk72E4qgEng?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82910feae27b0983a22c8",
+        "Title": "Kenpuu Denki Berserk",
+        "Year": "1997",
+        "Episodes": "25",
+        "Rank": "99",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1384/119988l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/5g5uPsKDGYg?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82910feae27b0983a22c9",
+        "Title": "Koukaku Kidoutai",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "271",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/10/82594l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/5GjS0Vvs8KA?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82910feae27b0983a22c2",
+        "Title": "Texhnolyze",
+        "Year": "2003",
+        "Episodes": "22",
+        "Rank": "1014",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1027/131977l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/Z19QTGvwg9I?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82910feae27b0983a22c3",
+        "Title": "Trinity Blood",
+        "Year": "2005",
+        "Episodes": "24",
+        "Rank": "2551",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/10/24649l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/35GXUVBRIEM?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82912feae27b0983a22da",
+        "Title": "Cowboy Bebop",
+        "Year": "1998",
+        "Episodes": "26",
+        "Rank": "39",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/4/19644l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/qig4KOK2R2g?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82912feae27b0983a22db",
+        "Title": "Cowboy Bebop: Tengoku no Tobira",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "185",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1439/93480l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/hc7IxJ93jtM?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82912feae27b0983a22dc",
+        "Title": "Trigun",
+        "Year": "1998",
+        "Episodes": "26",
+        "Rank": "338",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/7/20310l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/bJVyIXeUznY?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82912feae27b0983a22dd",
+        "Title": "Witch Hunter Robin",
+        "Year": "2002",
+        "Episodes": "26",
+        "Rank": "2794",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/10/19969l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/7UkaILjPk8M?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82912feae27b0983a22de",
+        "Title": "Hachimitsu to Clover",
+        "Year": "2005",
+        "Episodes": "24",
+        "Rank": "571",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/11/73923l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/6TN4a0kZuXg?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82912feae27b0983a22df",
+        "Title": "One Piece",
+        "Year": "1999",
+        "Episodes": "12",
+        "Rank": "58",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/6/73245l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/l_98K4_6UQ0?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82912feae27b0983a22e0",
+        "Title": "School Rumble",
+        "Year": "2004",
+        "Episodes": "26",
+        "Rank": "754",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/4/75488l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/K4hy46Y-Cf8?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82912feae27b0983a22e1",
+        "Title": "Sunabouzu",
+        "Year": "2004",
+        "Episodes": "24",
+        "Rank": "2138",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/6/75536l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/XMCqw1vxMnY?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82912feae27b0983a22e2",
+        "Title": "Texhnolyze",
+        "Year": "2003",
+        "Episodes": "22",
+        "Rank": "1014",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1027/131977l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/Z19QTGvwg9I?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82912feae27b0983a22e3",
+        "Title": "Trinity Blood",
+        "Year": "2005",
+        "Episodes": "24",
+        "Rank": "2551",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/10/24649l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/35GXUVBRIEM?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82912feae27b0983a22e6",
+        "Title": "Neon Genesis Evangelion: Death & Rebirth",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "1872",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1993/113122l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/eI8aUqsCovo?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82912feae27b0983a22e7",
+        "Title": "Neon Genesis Evangelion: The End of Evangelion",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "100",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/Gk72E4qgEng?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82912feae27b0983a22e8",
+        "Title": "Kenpuu Denki Berserk",
+        "Year": "1997",
+        "Episodes": "25",
+        "Rank": "99",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1384/119988l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/5g5uPsKDGYg?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82912feae27b0983a22e9",
+        "Title": "Koukaku Kidoutai",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "271",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/10/82594l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/5GjS0Vvs8KA?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82912feae27b0983a22e4",
+        "Title": "Yakitate!! Japan",
+        "Year": "2004",
+        "Episodes": "69",
+        "Rank": "685",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/3/76432l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/xs6xzznC9tY?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82912feae27b0983a22e5",
+        "Title": "Neon Genesis Evangelion",
+        "Year": "1995",
+        "Episodes": "26",
+        "Rank": "208",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/woto6QFUNbg?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82914feae27b0983a22fa",
+        "Title": "Cowboy Bebop",
+        "Year": "1998",
+        "Episodes": "26",
+        "Rank": "39",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/4/19644l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/qig4KOK2R2g?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82914feae27b0983a22fb",
+        "Title": "Cowboy Bebop: Tengoku no Tobira",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "185",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1439/93480l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/hc7IxJ93jtM?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82914feae27b0983a22fc",
+        "Title": "Trigun",
+        "Year": "1998",
+        "Episodes": "26",
+        "Rank": "338",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/7/20310l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/bJVyIXeUznY?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82914feae27b0983a22fd",
+        "Title": "Witch Hunter Robin",
+        "Year": "2002",
+        "Episodes": "26",
+        "Rank": "2794",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/10/19969l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/7UkaILjPk8M?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82914feae27b0983a22fe",
+        "Title": "Hachimitsu to Clover",
+        "Year": "2005",
+        "Episodes": "24",
+        "Rank": "571",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/11/73923l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/6TN4a0kZuXg?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82914feae27b0983a22ff",
+        "Title": "One Piece",
+        "Year": "1999",
+        "Episodes": "12",
+        "Rank": "58",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/6/73245l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/l_98K4_6UQ0?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82914feae27b0983a2300",
+        "Title": "School Rumble",
+        "Year": "2004",
+        "Episodes": "26",
+        "Rank": "754",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/4/75488l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/K4hy46Y-Cf8?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82914feae27b0983a2301",
+        "Title": "Sunabouzu",
+        "Year": "2004",
+        "Episodes": "24",
+        "Rank": "2138",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/6/75536l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/XMCqw1vxMnY?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82914feae27b0983a2302",
+        "Title": "Texhnolyze",
+        "Year": "2003",
+        "Episodes": "22",
+        "Rank": "1014",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1027/131977l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/Z19QTGvwg9I?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82914feae27b0983a2303",
+        "Title": "Trinity Blood",
+        "Year": "2005",
+        "Episodes": "24",
+        "Rank": "2551",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/10/24649l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/35GXUVBRIEM?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82914feae27b0983a2304",
+        "Title": "Yakitate!! Japan",
+        "Year": "2004",
+        "Episodes": "69",
+        "Rank": "685",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/3/76432l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/xs6xzznC9tY?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82914feae27b0983a2305",
+        "Title": "Neon Genesis Evangelion",
+        "Year": "1995",
+        "Episodes": "26",
+        "Rank": "208",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/woto6QFUNbg?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82914feae27b0983a2308",
+        "Title": "Kenpuu Denki Berserk",
+        "Year": "1997",
+        "Episodes": "25",
+        "Rank": "99",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1384/119988l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/5g5uPsKDGYg?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82914feae27b0983a2309",
+        "Title": "Koukaku Kidoutai",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "271",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/10/82594l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/5GjS0Vvs8KA?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82914feae27b0983a2306",
+        "Title": "Neon Genesis Evangelion: Death & Rebirth",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "1872",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1993/113122l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/eI8aUqsCovo?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82914feae27b0983a2307",
+        "Title": "Neon Genesis Evangelion: The End of Evangelion",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "100",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/Gk72E4qgEng?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82916feae27b0983a231a",
+        "Title": "Cowboy Bebop",
+        "Year": "1998",
+        "Episodes": "26",
+        "Rank": "39",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/4/19644l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/qig4KOK2R2g?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82916feae27b0983a231b",
+        "Title": "Cowboy Bebop: Tengoku no Tobira",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "185",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1439/93480l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/hc7IxJ93jtM?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82916feae27b0983a231c",
+        "Title": "Trigun",
+        "Year": "1998",
+        "Episodes": "26",
+        "Rank": "338",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/7/20310l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/bJVyIXeUznY?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82916feae27b0983a231d",
+        "Title": "Witch Hunter Robin",
+        "Year": "2002",
+        "Episodes": "26",
+        "Rank": "2794",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/10/19969l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/7UkaILjPk8M?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82916feae27b0983a231e",
+        "Title": "Hachimitsu to Clover",
+        "Year": "2005",
+        "Episodes": "24",
+        "Rank": "571",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/11/73923l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/6TN4a0kZuXg?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82916feae27b0983a231f",
+        "Title": "One Piece",
+        "Year": "1999",
+        "Episodes": "12",
+        "Rank": "58",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/6/73245l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/l_98K4_6UQ0?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82916feae27b0983a2320",
+        "Title": "School Rumble",
+        "Year": "2004",
+        "Episodes": "26",
+        "Rank": "754",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/4/75488l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/K4hy46Y-Cf8?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82916feae27b0983a2321",
+        "Title": "Sunabouzu",
+        "Year": "2004",
+        "Episodes": "24",
+        "Rank": "2138",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/6/75536l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/XMCqw1vxMnY?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82916feae27b0983a2322",
+        "Title": "Texhnolyze",
+        "Year": "2003",
+        "Episodes": "22",
+        "Rank": "1014",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1027/131977l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/Z19QTGvwg9I?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82916feae27b0983a2323",
+        "Title": "Trinity Blood",
+        "Year": "2005",
+        "Episodes": "24",
+        "Rank": "2551",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/10/24649l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/35GXUVBRIEM?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82916feae27b0983a2324",
+        "Title": "Yakitate!! Japan",
+        "Year": "2004",
+        "Episodes": "69",
+        "Rank": "685",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/3/76432l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/xs6xzznC9tY?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82916feae27b0983a2325",
+        "Title": "Neon Genesis Evangelion",
+        "Year": "1995",
+        "Episodes": "26",
+        "Rank": "208",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/woto6QFUNbg?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82916feae27b0983a2326",
+        "Title": "Neon Genesis Evangelion: Death & Rebirth",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "1872",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1993/113122l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/eI8aUqsCovo?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82916feae27b0983a2327",
+        "Title": "Neon Genesis Evangelion: The End of Evangelion",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "100",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/Gk72E4qgEng?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82916feae27b0983a2328",
+        "Title": "Kenpuu Denki Berserk",
+        "Year": "1997",
+        "Episodes": "25",
+        "Rank": "99",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1384/119988l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/5g5uPsKDGYg?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82916feae27b0983a2329",
+        "Title": "Koukaku Kidoutai",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "271",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/10/82594l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/5GjS0Vvs8KA?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82918feae27b0983a233a",
+        "Title": "Cowboy Bebop",
+        "Year": "1998",
+        "Episodes": "26",
+        "Rank": "39",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/4/19644l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/qig4KOK2R2g?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82918feae27b0983a233b",
+        "Title": "Cowboy Bebop: Tengoku no Tobira",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "185",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1439/93480l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/hc7IxJ93jtM?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82918feae27b0983a233c",
+        "Title": "Trigun",
+        "Year": "1998",
+        "Episodes": "26",
+        "Rank": "338",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/7/20310l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/bJVyIXeUznY?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82918feae27b0983a233d",
+        "Title": "Witch Hunter Robin",
+        "Year": "2002",
+        "Episodes": "26",
+        "Rank": "2794",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/10/19969l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/7UkaILjPk8M?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82918feae27b0983a233e",
+        "Title": "Hachimitsu to Clover",
+        "Year": "2005",
+        "Episodes": "24",
+        "Rank": "571",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/11/73923l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/6TN4a0kZuXg?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82918feae27b0983a233f",
+        "Title": "One Piece",
+        "Year": "1999",
+        "Episodes": "12",
+        "Rank": "58",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/6/73245l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/l_98K4_6UQ0?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82918feae27b0983a2340",
+        "Title": "School Rumble",
+        "Year": "2004",
+        "Episodes": "26",
+        "Rank": "754",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/4/75488l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/K4hy46Y-Cf8?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82918feae27b0983a2341",
+        "Title": "Sunabouzu",
+        "Year": "2004",
+        "Episodes": "24",
+        "Rank": "2138",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/6/75536l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/XMCqw1vxMnY?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82918feae27b0983a2342",
+        "Title": "Texhnolyze",
+        "Year": "2003",
+        "Episodes": "22",
+        "Rank": "1014",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1027/131977l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/Z19QTGvwg9I?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82918feae27b0983a2343",
+        "Title": "Trinity Blood",
+        "Year": "2005",
+        "Episodes": "24",
+        "Rank": "2551",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/10/24649l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/35GXUVBRIEM?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82918feae27b0983a2344",
+        "Title": "Yakitate!! Japan",
+        "Year": "2004",
+        "Episodes": "69",
+        "Rank": "685",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/3/76432l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/xs6xzznC9tY?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82918feae27b0983a2345",
+        "Title": "Neon Genesis Evangelion",
+        "Year": "1995",
+        "Episodes": "26",
+        "Rank": "208",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/woto6QFUNbg?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82918feae27b0983a2346",
+        "Title": "Neon Genesis Evangelion: Death & Rebirth",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "1872",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1993/113122l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/eI8aUqsCovo?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82918feae27b0983a2347",
+        "Title": "Neon Genesis Evangelion: The End of Evangelion",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "100",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/Gk72E4qgEng?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82918feae27b0983a2348",
+        "Title": "Kenpuu Denki Berserk",
+        "Year": "1997",
+        "Episodes": "25",
+        "Rank": "99",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1384/119988l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/5g5uPsKDGYg?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c82918feae27b0983a2349",
+        "Title": "Koukaku Kidoutai",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "271",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/10/82594l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/5GjS0Vvs8KA?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83bfd79dfa22b07b89d59",
+        "Title": "Trigun",
+        "Year": "1998",
+        "Episodes": "26",
+        "Rank": "338",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/7/20310l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/bJVyIXeUznY?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83bfd79dfa22b07b89d5a",
+        "Title": "Witch Hunter Robin",
+        "Year": "2002",
+        "Episodes": "26",
+        "Rank": "2794",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/10/19969l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/7UkaILjPk8M?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83bfd79dfa22b07b89d57",
+        "Title": "Cowboy Bebop",
+        "Year": "1998",
+        "Episodes": "26",
+        "Rank": "39",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/4/19644l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/qig4KOK2R2g?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83bfd79dfa22b07b89d5c",
+        "Title": "One Piece",
+        "Year": "1999",
+        "Episodes": "12",
+        "Rank": "58",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/6/73245l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/l_98K4_6UQ0?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83bfd79dfa22b07b89d5d",
+        "Title": "School Rumble",
+        "Year": "2004",
+        "Episodes": "26",
+        "Rank": "754",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/4/75488l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/K4hy46Y-Cf8?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83bfd79dfa22b07b89d58",
+        "Title": "Cowboy Bebop: Tengoku no Tobira",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "185",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1439/93480l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/hc7IxJ93jtM?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83bfd79dfa22b07b89d5f",
+        "Title": "Texhnolyze",
+        "Year": "2003",
+        "Episodes": "22",
+        "Rank": "1014",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1027/131977l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/Z19QTGvwg9I?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83bfd79dfa22b07b89d60",
+        "Title": "Trinity Blood",
+        "Year": "2005",
+        "Episodes": "24",
+        "Rank": "2551",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/10/24649l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/35GXUVBRIEM?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83bfd79dfa22b07b89d61",
+        "Title": "Yakitate!! Japan",
+        "Year": "2004",
+        "Episodes": "69",
+        "Rank": "685",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/3/76432l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/xs6xzznC9tY?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83bfd79dfa22b07b89d5b",
+        "Title": "Hachimitsu to Clover",
+        "Year": "2005",
+        "Episodes": "24",
+        "Rank": "571",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/11/73923l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/6TN4a0kZuXg?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83bfd79dfa22b07b89d63",
+        "Title": "Neon Genesis Evangelion: Death & Rebirth",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "1872",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1993/113122l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/eI8aUqsCovo?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83bfd79dfa22b07b89d65",
+        "Title": "Kenpuu Denki Berserk",
+        "Year": "1997",
+        "Episodes": "25",
+        "Rank": "99",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1384/119988l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/5g5uPsKDGYg?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83bfd79dfa22b07b89d66",
+        "Title": "Koukaku Kidoutai",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "271",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/10/82594l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/5GjS0Vvs8KA?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83bfd79dfa22b07b89d5e",
+        "Title": "Sunabouzu",
+        "Year": "2004",
+        "Episodes": "24",
+        "Rank": "2138",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/6/75536l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/XMCqw1vxMnY?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83bfd79dfa22b07b89d64",
+        "Title": "Neon Genesis Evangelion: The End of Evangelion",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "100",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/Gk72E4qgEng?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83bfd79dfa22b07b89d62",
+        "Title": "Neon Genesis Evangelion",
+        "Year": "1995",
+        "Episodes": "26",
+        "Rank": "208",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/woto6QFUNbg?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83c7693e8482627444865",
+        "Title": "Trigun",
+        "Year": "1998",
+        "Episodes": "26",
+        "Rank": "338",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/7/20310l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/bJVyIXeUznY?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83c7693e8482627444866",
+        "Title": "Witch Hunter Robin",
+        "Year": "2002",
+        "Episodes": "26",
+        "Rank": "2794",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/10/19969l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/7UkaILjPk8M?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83c7693e8482627444863",
+        "Title": "Cowboy Bebop",
+        "Year": "1998",
+        "Episodes": "26",
+        "Rank": "39",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/4/19644l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/qig4KOK2R2g?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83c7693e8482627444868",
+        "Title": "One Piece",
+        "Year": "1999",
+        "Episodes": "12",
+        "Rank": "58",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/6/73245l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/l_98K4_6UQ0?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83c7693e8482627444869",
+        "Title": "School Rumble",
+        "Year": "2004",
+        "Episodes": "26",
+        "Rank": "754",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/4/75488l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/K4hy46Y-Cf8?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83c7693e8482627444864",
+        "Title": "Cowboy Bebop: Tengoku no Tobira",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "185",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1439/93480l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/hc7IxJ93jtM?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83c7693e848262744486b",
+        "Title": "Texhnolyze",
+        "Year": "2003",
+        "Episodes": "22",
+        "Rank": "1014",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1027/131977l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/Z19QTGvwg9I?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83c7693e848262744486c",
+        "Title": "Trinity Blood",
+        "Year": "2005",
+        "Episodes": "24",
+        "Rank": "2551",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/10/24649l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/35GXUVBRIEM?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83c7693e848262744486d",
+        "Title": "Yakitate!! Japan",
+        "Year": "2004",
+        "Episodes": "69",
+        "Rank": "685",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/3/76432l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/xs6xzznC9tY?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83c7693e848262744486e",
+        "Title": "Neon Genesis Evangelion",
+        "Year": "1995",
+        "Episodes": "26",
+        "Rank": "208",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/woto6QFUNbg?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83c7693e848262744486f",
+        "Title": "Neon Genesis Evangelion: Death & Rebirth",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "1872",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1993/113122l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/eI8aUqsCovo?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83c7693e8482627444867",
+        "Title": "Hachimitsu to Clover",
+        "Year": "2005",
+        "Episodes": "24",
+        "Rank": "571",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/11/73923l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/6TN4a0kZuXg?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83c7693e8482627444871",
+        "Title": "Kenpuu Denki Berserk",
+        "Year": "1997",
+        "Episodes": "25",
+        "Rank": "99",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/1384/119988l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/5g5uPsKDGYg?enablejsapi=1&wmode=opaque&autoplay=1"
+    },
+    {
+        "_id": "63c83c7693e8482627444872",
+        "Title": "Koukaku Kidoutai",
+        "Year": "1973",
+        "Episodes": "1",
+        "Rank": "271",
+        "ImageLink": "https://cdn.myanimelist.net/images/anime/10/82594l.jpg",
+        "VideoLink": "https://www.youtube.com/embed/5GjS0Vvs8KA?enablejsapi=1&wmode=opaque&autoplay=1"
+    }
+]
