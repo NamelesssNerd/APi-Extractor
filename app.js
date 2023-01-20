@@ -2,7 +2,6 @@
 --> By: Sushant khadka
 ------ NodeJS Bakend to save the apis Data into the MongoDB DataBase and create the api.json file that can be used as the static api
 */
-
 const express = require("express");
 const path = require("path")
 const CircularJSON = require("circular-json")
